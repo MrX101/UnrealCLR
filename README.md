@@ -1,3 +1,8 @@
+This is a fork of this https://github.com/nxrighthere/UnrealCLR
+
+Has to be public due to license, but I havn't touched it yet.
+
+
 <p align="center">
 	<img src="https://i.imgur.com/c6Zn7SE.png" alt="alt logo">
 </p>
